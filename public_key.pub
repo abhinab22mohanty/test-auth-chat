@@ -1,0 +1,12 @@
+# Replace this with your actual public key
+# This is a placeholder public key file
+# 
+# Example format for SSH public key:
+# ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC... your-email@example.com
+#
+# Example format for PGP/GPG public key:
+# -----BEGIN PGP PUBLIC KEY BLOCK-----
+# 
+# -----END PGP PUBLIC KEY BLOCK-----
+#
+# To replace this file with your actual public key, update this file with your key content
